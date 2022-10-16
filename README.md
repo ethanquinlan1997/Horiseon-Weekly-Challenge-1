@@ -13,7 +13,7 @@ This project was to refractor an already exisiting code. The starter code to thi
 
 ## Application Links
 
-- GitHub Repository: https://ethanquinlan1997.github.io/Horiseon-Weekly-Challenge-1/
+- GitHub Repository: https://github.com/ethanquinlan1997/Horiseon-Weekly-Challenge-1
 - Live Website: https://ethanquinlan1997.github.io/Horiseon-Weekly-Challenge-1/
 
 ## Credits
