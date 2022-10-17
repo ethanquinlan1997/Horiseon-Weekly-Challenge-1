@@ -9,7 +9,7 @@ This project was to refractor an already exisiting code. The starter code to thi
 
 ## Screenshot Of Project
 
-ethanquinlan1997.github.io_Horiseon-Weekly-Challenge-1_.png
+_C__Users_Ethan%20Quinlan_Horiseon-Weekly-Challenge-1_index.html.png 
 
 ## Application Links
 
