@@ -9,7 +9,7 @@ This project was to refractor an already exisiting code. The starter code to thi
 
 ## Screenshot Of Project
 
-![_C__Users_Ethan%20Quinlan_weekly-challenge_urban-octo-telegram_Develop_index html](https://user-images.githubusercontent.com/111590402/196052234-3bde53bf-b05c-468e-ac1b-a140811510ea.png)
+ethanquinlan1997.github.io_Horiseon-Weekly-Challenge-1_.png
 
 ## Application Links
 
